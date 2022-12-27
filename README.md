@@ -5,13 +5,13 @@
 
 1. Spring Initializr
    - Maeven project
-   - Language Java
-   - Sprint Boot 2.7.6
+   - Language: Java
+   - Sprint Boot: 2.7.6
    - Project Metadata
-      - Packaging Jar
-      - Java 11
+      - Packaging: Jar
+      - Java: 11
       [^note]:
-      :exclamation: La versión de Java puede variar según la instalada en el ordenador.
+      :exclamation: La versión de Java tiene que ser según la instalada en el ordenador.
 
 
 2.  MySQL
@@ -25,6 +25,8 @@ Programas que se utilizaron para el desarrollo de la aplicacion:
 * Postman
 
 * XAMPP
+   - MySQL Database
+   - Apache Web Server
 
 
   
