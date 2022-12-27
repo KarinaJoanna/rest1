@@ -3,10 +3,15 @@
 
 ### Built With
 
-* Java
-* Maeven
-* MySQL
 * Spring Initializr
+** Maeven project
+** Language Java
+** Sprint Boot 2.7.6
+** Project Metadata
+*** Packaging Jar
+*** Java 11
+
+* MySQL
 
 ### Prerequisites
 
