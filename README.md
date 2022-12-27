@@ -10,6 +10,8 @@
    - Project Metadata
       - Packaging Jar
       - Java 11
+      [^note]: La versión de Java puede variar según la instalada en el ordenador.
+
 
 2.  MySQL
 
