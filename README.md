@@ -15,6 +15,10 @@ Programas que se utilizaron para el desarrollo de la aplicacion:
 * IntelliJ IDEA
   
 * Postman
+
+* XAMPP
+
+
   
 -----
 
